@@ -2,19 +2,13 @@
 
 # Привет, я eldar! 
 
-### Мой технологический стек
-HTML, CSS, JavaScript, React.js, Vite, React Router DOM, Redux Toolkit, REST API, Firebase.
+### Frontend Developer | HTML • CSS • JavaScript
 
-### Моя активность
-![Статистика](https://github-readme-stats.vercel.app/api?username=eldar-max&show_icons=true&theme=vision-friendly-dark)
-
-![График активности](https://ghchart.rshah.org/eldar-max)
+![Статистика](https://github-readme-stats.vercel.app/api?username=eldar-max&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
 
 </div>
 
----
-
-###  Мой технологический стек
+### Мой технологический стек
 
 <div align="center">
 
@@ -23,22 +17,6 @@ HTML, CSS, JavaScript, React.js, Vite, React Router DOM, Redux Toolkit, REST API
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" height="25" /> |
 | **Tools & API** | <img src="https://skillicons.dev/icons?i=redux,firebase" height="25" /> |
 
-*Я активно использую: HTML5, CSS3, JavaScript, React.js, Vite, React Router DOM, Redux Toolkit, REST API, Firebase.*
-
-</div>
-
----
-
-### Мой технологический стек
-
-<div align="center">
-
-| Language | Icon | Level |
-| :--- | :---: | :--- |
-| HTML5 | <img src="https://skillicons.dev/icons?i=html" width="25" /> | Advanced |
-| CSS3 | <img src="https://skillicons.dev/icons?i=css" width="25" /> | Advanced |
-| JavaScript | <img src="https://skillicons.dev/icons?i=js" width="25" /> | Intermediate / Advanced |
-
 </div>
 
 ---
@@ -46,27 +24,15 @@ HTML, CSS, JavaScript, React.js, Vite, React Router DOM, Redux Toolkit, REST API
 ### Моя активность на GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel&layout=compact&theme=vision-friendly-dark" />
-</div>
-
----
-
-###  GitHub Streak & Snake
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel&theme=vision-friendly-dark" alt="streak stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldar-max&layout=compact&theme=vision-friendly-dark" />
   <br>
-  
-  <img src="" alt="snake" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eldar-max&theme=vision-friendly-dark" />
 </div>
 
 ---
 
-###  Как со мной связаться:
+### Как со мной связаться:
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ТВОЙ_ТЕЛЕГРАМ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН)
-
+  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
