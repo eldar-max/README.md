@@ -40,7 +40,7 @@
   
   <br>
   
-  <img src="https://floristry-studio-2026.vercel.app/resume.html" alt="snake" />
+  <img src="" alt="snake" />
 </div>
 
 ---
