@@ -40,7 +40,7 @@
   
   <br>
   
-  <img src="https://raw.githubusercontent.com/daniel/daniel/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://floristry-studio-2026.vercel.app/resume.html" alt="snake" />
 </div>
 
 ---
