@@ -1,9 +1,14 @@
 <div align="center">
 
 # Привет, я eldar! 
-### Frontend Developer | React.js Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Building+modern+web+apps;Coding+in+React+&+JS;Love+open+source)](https://git.io/typing-svg)
+### Мой технологический стек
+HTML, CSS, JavaScript, React.js, Vite, React Router DOM, Redux Toolkit, REST API, Firebase.
+
+### Моя активность
+![Статистика](https://github-readme-stats.vercel.app/api?username=eldar-max&show_icons=true&theme=vision-friendly-dark)
+
+![График активности](https://ghchart.rshah.org/eldar-max)
 
 </div>
 
