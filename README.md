@@ -1,17 +1,30 @@
 <div align="center">
 
-# Привет, я eldar! 👋
-### Frontend Developer | HTML • CSS • JavaScript
+# Привет, я eldar! 
+### Frontend Developer | React.js Enthusiast
 
-![Header](https://repository-images.githubusercontent.com/338803879/bb698200-6efc-11eb-910f-250cda75b482)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Building+web+interfaces;Coding+in+JavaScript;Learning+new+frameworks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Building+modern+web+apps;Coding+in+React+&+JS;Love+open+source)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🛠 Мой технологический стек
+###  Мой технологический стек
+
+<div align="center">
+
+| Technology | Icons |
+| :--- | :---: |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" height="25" /> |
+| **Tools & API** | <img src="https://skillicons.dev/icons?i=redux,firebase" height="25" /> |
+
+*Я активно использую: HTML5, CSS3, JavaScript, React.js, Vite, React Router DOM, Redux Toolkit, REST API, Firebase.*
+
+</div>
+
+---
+
+### Мой технологический стек
 
 <div align="center">
 
@@ -25,7 +38,7 @@
 
 ---
 
-### 📊 Моя активность на GitHub
+### Моя активность на GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
@@ -34,7 +47,7 @@
 
 ---
 
-### 🐍 GitHub Streak & Snake
+###  GitHub Streak & Snake
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel&theme=vision-friendly-dark" alt="streak stats" />
   
@@ -45,7 +58,7 @@
 
 ---
 
-### 📫 Как со мной связаться:
+###  Как со мной связаться:
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ТВОЙ_ТЕЛЕГРАМ)
